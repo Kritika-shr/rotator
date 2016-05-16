@@ -12,7 +12,7 @@ You can install APACHE server on your local machine and start working on it.
 
 
 <h3>Getting Started:</h3> 
-Download zip file unzip it.If you are using Wamp sercer save it to www folder and just run localhost/rotator.
+Download zip file unzip it.If you are using Wamp sercer save it to www folder and just run localhost/rotator-master.
 
 
 
